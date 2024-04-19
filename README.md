@@ -7,7 +7,9 @@ Sana Tamim 1,2, Nidia S. Trovao 2, Julia Paoli 3, Abdul Ahad 1, Nazish Badar 1, 
 3. University of Florida Emerging Pathogens Institute, Gainesville, Florida, USA
 
 #Corresponding author: Sana Tamim (sanatamim@gmail.com)
-<!--
+
 <br>
 </br>
-File S3: Python script for ancestral sequence reconstruction and inference of glycosylation patterns. Available at https://github.com/nidiatrovao/HA_Evolution/assets/13024751/cecda77f-62c4-4009-8b12-bef0bd9f60ab.-->
+<!--
+File S3: Python script for ancestral sequence reconstruction and inference of glycosylation patterns. Available at https://github.com/nidiatrovao/HA_Evolution/assets/13024751/cecda77f-62c4-4009-8b12-bef0bd9f60ab.
+-->
